@@ -1,3 +1,4 @@
 # hello-world
-First repository
-My name is Axl, i'm trying to step in development working
+
+My first repositor.
+My name is Axl, i'm trying to understand Github
